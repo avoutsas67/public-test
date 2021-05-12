@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <instance>
+        <product>
+            <url>MedicinalProductDefinition/Kalydeco75</url>
+            <name>Kalydeco 75 mg film-coated tablets</name>
+        </product>
+        <product>
+            <url>MedicinalProductDefinition/Kalydeco150</url>
+            <name>Kalydeco 150 mg film-coated tablets</name>
+        </product>
+        <bundle>
+            <fullUrlUrnUuid>urn:uuid:1b575a0b-3bc8-499f-9852-2da9f8e5a908</fullUrlUrnUuid>
+            <idUuid>709f4405-9739-43d8-b888-d48702930f96</idUuid>
+            <Identifier>KAL-Auth-999</Identifier>
+            <compositionFullUrlUuid>urn:uuid:1195d0c6-2db9-4017-8ae3-c8a90137e83d</compositionFullUrlUuid>
+            <listFullUrlUuid>urn:uuid:812a430c-0eda-4615-a30b-a760edaa3597</listFullUrlUuid>
+            <listId>SmPCProductsKalydeco1</listId>
+        </bundle>
+        <bundle>
+            <fullUrlUrnUuid>urn:uuid:e229e00c-5eae-4905-a644-98aae00aa26b</fullUrlUrnUuid>
+            <idUuid>aa7e0516-0d8c-4c24-8642-ce6f2e7dbfd3</idUuid>
+            <Identifier>KAL999</Identifier>
+            <compositionFullUrlUuid>urn:uuid:0c5bcdf8-f236-415a-96ca-1355942b0868</compositionFullUrlUuid>
+            <listFullUrlUuid>urn:uuid:31ba7a75-e9a3-4751-b2a9-2547459acff7</listFullUrlUuid>
+            <listId>SmPCProductsKalydeco2</listId>
+        </bundle>
+    </instance>
+    <!-- based on https://www.ema.europa.eu/en/medicines/human/EPAR/kalydeco#authorisation-details-section -->
+    <document>
+        <authoringDateTime>2021-02-01T10:10:10Z</authoringDateTime>
+        <authoringDate>2021-02-01</authoringDate>
+        <documentTypeCode>100000155532</documentTypeCode>
+        <documentTypeDisplay>Summary of Product Characteristics</documentTypeDisplay>
+        <organizationOMSCode>LOC-10001868</organizationOMSCode>
+        <title>ANNEX 1 - SUMMARY OF PRODUCT CHARACTERISTICS</title>
+        <relatesTo>urn:uuid:1195d0c6-2db9-4017-8ae3-c8a90137e83d</relatesTo>
+        <image>
+            <id>imageResource</id>
+            <mediaType>image/png</mediaType>
+            <base64data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QYZCik0qECmbAAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAABtUlEQVQoz2P8//8/Ayb4///v8xfM4iIMzKxoMkwMOMC3DVv/vXmEKY5Dw///Pw8c+Xn2CLEa/r55+/P07t/nrxKl4f/PX6+8g1mlP/44c4eAhn8fP33bsOV1dBoT51V2+z/MohIfeyYy/P2LXcPfFy8/NLb9efTs//utgjUfft35xRUY8Hnm/N/Xb2LT8P//h5ZOnvjoj+11giXcTH//MTLp/v/x9c/z279uXsOi4e/LRwzsbz6vmMyTLM6m9fnXE3Y2l+yv+yez2nL9eX0Wi4afF5eyW4r/+3qYP1Xjz/N3P17ZsRsKMrJd4rL9wcTxDIsGZqEvLEKv2VT/Mgl+/XGbXSB72s/zxXyBYmwqLCxSLFg0sKkHsAg+YJX7xfBTmt204s/NXE4dQTZtT2beH6yqFv9ebkDXwMhnxixrySb68f9fcWYRTSbGA6ya2QwMsixCvxk/djByiWIJVkbBBGaNOoafO5nYWVlkPRjYtP5/388s+JdJkI+R1xquDMl9zOqMQioM7BIMjJ8Z2IUYWOQZeT0Y/u5mEF+G7AdGLMn7712GnycY/v1g+HOZga+WgUkYWRIAe6ip9OnE1GoAAAAASUVORK5CYII=</base64data>
+        </image>
+        <section>
+            <title>1. NAME OF THE MEDICINAL PRODUCT</title>
+            <typeCode>00000021212</typeCode>
+            <typeDisplay>Name Section</typeDisplay>
+            <text>
+                <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>Kalydeco 75 mg film-coated tablets</div>
+                    <div>Kalydeco 150 mg film-coated tablets</div>
+                </div>
+            </text>
+        </section>
+        <section>
+            <title>2. QUALITATIVE AND QUANTITATIVE COMPOSITION</title>
+            <typeCode>00000021212</typeCode>
+            <typeDisplay>Composition</typeDisplay>
+            <text>
+                <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div style="text-decoration:underline">
+                        <p>Kalydeco 75 mg film-coated tablets</p>
+                    </div>
+                    <div>
+                        <p>Each film-coated tablet contains 75 mg of ivacaftor.</p>
+                    </div>
+                    <div style="font-style: italic">
+                        <p>Excipient with known effect</p>
+                    </div>
+                    <div>
+                        <p>Each film-coated tablet contains 83.6 mg of lactose monohydrate.</p>
+                    </div>
+                    <div style="text-decoration:underline">
+                        <p>Kalydeco 150 mg film-coated tablets</p>
+                    </div>
+                    <div>
+                        <p>Each film-coated tablet contains 150 mg of ivacaftor.</p>
+                    </div>
+                    <div style="font-style: italic">
+                        <p>Excipient with known effect</p>
+                    </div>
+                    <div>
+                        <p>Each film-coated tablet contains 167.2 mg of lactose monohydrate. For the full list of excipients, see section 6.1.</p>
+                    </div>
+                </div>
+            </text>
+        </section>
+        <section>
+            <title>3. PHARMACEUTICAL FORM</title>
+            <typeCode>00000031313</typeCode>
+            <typeDisplay>Form</typeDisplay>
+            <text>
+                <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div>
+                        <p>Film-coated tablet (tablet)</p>
+                    </div>
+                    <div style="text-decoration:underline">
+                        <p>Kalydeco 75 mg film-coated tablets</p>
+                    </div>
+                    <div>
+                        <p>Light blue, capsule-shaped film-coated tablets, printed with “V 75” in black ink on one side and plain on the other (12.7 mm x 6.8 mm in modified tablet shape).</p>
+                    </div>
+                    <div style="text-decoration:underline">
+                        <p>Kalydeco 150 mg film-coated tablets</p>
+                    </div>
+                    <div>
+                        <p>Light blue, capsule-shaped film-coated tablets, printed with “V 150” in black ink on one side and plain on the other (16.5 mm x 8.4 mm in modified tablet shape).</p>
+                    </div>
+                    <table>
+                        <tr>
+                            <th>Heading 1</th>
+                            <th>Heading 2</th>
+                        </tr>
+                        <tr>
+                            <td>Some text</td>
+                            <!-- possible to link images to embedded Binary resources (contained resources) -->
+                            <td>
+                                <img src="#imageResource" alt="an image"/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </text>
+        </section>
+        <section>
+            <title>4. CLINICAL PARTICULARS</title>
+            <typeCode>0000002223333</typeCode>
+            <typeDisplay>clinical-particulars</typeDisplay>
+            <subsection>
+                <title>4.1 Therapeutic indications</title>
+                <typeCode>00000044444</typeCode>
+                <typeDisplay>Therapeutic Indications</typeDisplay>
+                <text>
+                    <div xmlns="http://www.w3.org/1999/xhtml">
+                        <div>
+                            <p>Kalydeco tablets are indicated:</p>
+                        </div>
+                        <ul>
+                            <li>
+                                <p>As monotherapy for the treatment of adults, adolescents, and children aged 6 years and older and weighing 25 kg or more with cystic fibrosis (CF) who have an R117H CFTR mutation or one of the following gating (class III) mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R (see sections 4.4 and 5.1).</p>
+                            </li>
+                            <li>
+                                <p>In a combination regimen with tezacaftor/ivacaftor tablets for the treatment of adults, adolescents, and children aged 6 years and older with cystic fibrosis (CF) who are homozygous for the F508del mutation or who are heterozygous for the F508del mutation and have one of the following mutations in the CFTR gene: P67L, R117C, L206W, R352Q, A455E, D579G, 711+3A→G, S945L, S977F, R1070W, D1152H, 2789+5G→A, 3272-26A→G, and 3849+10kbC→T.</p>
+                            </li>
+                            <li>
+                                <p>In a combination regimen with ivacaftor /tezacaftor /elexacaftor tablets for the treatment of adults and adolescents aged 12 years and older with cystic fibrosis (CF) who are homozygous for the F508del mutation in the CFTR gene or heterozygous for F508del and have a minimal function (MF) mutation in the CFTR gene (see section 5.1).</p>
+                            </li>
+                        </ul>
+                    </div>
+                </text>
+            </subsection>
+            <subsection>
+                <title>4.2 Posology and method of administration</title>
+                <typeCode>0000005555</typeCode>
+                <typeDisplay>Posology</typeDisplay>
+                <text>
+                    <div xmlns="http://www.w3.org/1999/xhtml">
+                        <div>
+                            <p>Kalydeco should only be prescribed by physicians with experience in the treatment of cystic fibrosis. If the patient's genotype is unknown, an accurate and validated genotyping method should be performed before starting treatment to confirm the presence of an indicated mutation in the CFTR gene (see section 4.1). The phase of the poly-T variant identified with the R117H mutation should be determined in accordance with local clinical recommendations.</p>
+                        </div>
+                    </div>
+                </text>
+            </subsection>
+        </section>
+    </document>
+</data>
+
